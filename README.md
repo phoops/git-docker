@@ -1,6 +1,6 @@
 # git-docker
 
-[![Build Status](https://travis-ci.org/phoops/git-docker.svg?branch=master)](https://travis-ci.org/phoops/git-docker)
+![Build Status](https://github.com/phoops/git-docker/workflows/Docker%20Image%20CI/badge.svg)
 
 This is a Docker image based on alpine/git which does a shallow clone on startup.
 
